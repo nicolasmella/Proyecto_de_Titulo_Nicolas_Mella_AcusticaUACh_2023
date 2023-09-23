@@ -5,7 +5,7 @@ Este repositorio contiene los scripts de programación, manual de usuario y otro
 
 - Para un correcto uso y puesta en marcha del sistema, lea atentamente el Manual de Usuario (Manual_de_Usuario.pdf) y el documento del proyecto (Proyecto de Título_Nicolás Mella.pdf).
   
-- El programa principal se ejecuta a partir del script "Intergaz_GUI.py" que contiene la interfaz gráfica de usuario (GUI) para el control del sistema. Este programa principal hace uso de funciones alojadas en los script "FFT.py", "Polar.py" y "Unir_PDF.py", por lo que es necesario que se encuentren en el mismo directorio para ejecutarse correctamente. 
+- El programa principal se ejecuta a partir del script "Intergaz_GUI.py" que contiene la interfaz gráfica de usuario (GUI) para el control del sistema. Este programa principal hace uso de funciones alojadas en los scripts "FFT.py", "Polar.py" y "Unir_PDF.py", por lo que es necesario que se encuentren en el mismo directorio para ejecutarse correctamente. 
 
 - El script "Motor.ino" contiene la programación del motor stepper desarrollada en IDE Arduino con la distintas instrucciones de movimiento del sistema.
 
