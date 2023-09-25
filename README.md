@@ -9,6 +9,21 @@ Este repositorio contiene los scripts de programación, manual de usuario y otro
 
 - El script "Motor.ino" contiene la programación del motor stepper desarrollada en IDE Arduino con la distintas instrucciones de movimiento del sistema.
 
+## Versión de Python y librerías utilizadas
+
+- Python (3.9.0).
+- Emoji (2.5.1)
+- Matplotlib (3.7.0)
+- NumPy (1.23.5)
+- Pandas (1.5.3)
+- PyPDF2 (2.11.1)
+- PySerial (3.5)
+- SciPy (1.6.1)
+- SoundDevice (0.4.6)
+- Soundfile (0.12.1)
+- Subprocess (3.5.4)
+- Tkinter (8.6.2)
+
 ## Contacto
 
 Si tienes alguna pregunta o comentario sobre este proyecto, no dudes en contactarme:
