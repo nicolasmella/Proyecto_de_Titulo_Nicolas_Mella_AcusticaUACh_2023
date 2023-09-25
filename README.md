@@ -11,7 +11,7 @@ Este repositorio contiene los archivos de programación, manual de usuario y otr
 
 ## Versión de Python y librerías utilizadas
 
-- Python (3.9.0).
+- Python (3.9.0)
 - Emoji (2.5.1)
 - Matplotlib (3.7.0)
 - NumPy (1.23.5)
