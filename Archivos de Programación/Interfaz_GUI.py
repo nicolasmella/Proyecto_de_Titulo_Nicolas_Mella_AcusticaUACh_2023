@@ -83,7 +83,7 @@ def reproducir_ruido():
 
 #Funcion para abrir manual de usuario
 def abrir_manual_de_usuario():
-    manual_de_usuario_pdf = 'postulacion-25620416.pdf'
+    manual_de_usuario_pdf = 'ruta_al_manual_de_usuario'
     subprocess.run(['open', manual_de_usuario_pdf])
 
 
