@@ -15,11 +15,11 @@ import subprocess
 
 
 
-import FFT_v11 as myfft
+import FFT as myfft
 
-import POLAR_normalizado as polar
+import Polar as polar
 
-import UNIR_PDF as unirpdf
+import Unir_PDF as unirpdf
 
 
 
