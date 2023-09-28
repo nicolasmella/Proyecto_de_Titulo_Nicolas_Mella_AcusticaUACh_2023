@@ -132,18 +132,3 @@ def iterar_archivos(carpeta_audio, fs, N, carpeta_fig_espectros,carpeta_data):
     # Guardar el DataFrame transpuesto en un archivo CSV
     df_amplitudes_transpuesto.to_csv(carpeta_data+"/Espectro Tercios.csv", header=None)    
 
-
-
-
-#iterar_archivos("/Users/nicolasmella/Desktop/Mediciones_Anecoica grande/Viernes 14_jul/FBT_J Max_cirrus v4/Recording", 44100, 8192, "/Users/nicolasmella/Desktop/Mediciones_Anecoica grande/Viernes 14_jul/FBT_J Max_cirrus v4/Recording","/Users/nicolasmella/Desktop/Mediciones_Anecoica grande/Viernes 14_jul/FBT_J Max_cirrus v4/Recording")
-
-
-
-
-
-
-
-
-
-
-
