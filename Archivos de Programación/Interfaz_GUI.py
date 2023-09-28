@@ -28,7 +28,8 @@ import Unir_PDF as unirpdf
 
 
 #Establecer la conexión serial con el dispositivo Arduino
-#ser = serial.Serial('/dev/tty.usbserial-0001', 9600) 
+#En sistema operativo windows se debe verificar el puerto COM correspondiente al dispositivo
+ser = serial.Serial('/dev/tty.usbserial-0001', 9600) 
 
 
 # Llamar al comando 'caffeinate' para mantener el sistema despierto
