@@ -1,6 +1,10 @@
 ## Proyecto_de_Titulo_Nicolas_Mella_AcusticaUACh_2023
 Este repositorio contiene los archivos de programación, manual de usuario y otros archivos del proyecto "Sistema Automatizado para la Medición de Directividad de Cajas Acústicas", desarrollado como Proyecto de Título de la carrera de Ingeniería Civil Acústica de la Universidad Austral de Chile por el estudiante Nicolás Mella Ampuero, año 2023.
 
+## Video del sistema en funcionamiento
+
+- Dispnible en: https://youtu.be/ntjnBdfisgc
+
 ## Consideraciones importantes
 
 - Para un correcto uso y puesta en marcha del sistema, lea atentamente el Manual de Usuario (Manual de Usuario.pdf) y el documento del proyecto (Proyecto de Título_Nicolás Mella.pdf).
